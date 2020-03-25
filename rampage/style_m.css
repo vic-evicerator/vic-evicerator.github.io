@@ -1,0 +1,10 @@
+BODY { background-color: black }
+H1 { color: gray; text-align: center; font-family: sans-serif }
+H2 { color: gray; text-align: center; font-family: sans-serif }
+H3 { color: gray; text-align: center; font-family: sans-serif }
+H4 { color: gray; text-align: center; font-family: sans-serif }
+HR { width: 50%; size: 1px; color: #444444; margin-top:7pt; margin-bottom:7pt}
+P { Font-size: 8pt; color: #AA2222; font-family: sans-serif }
+A:link { Font-size: 8pt; color: #787878; font-family: sans-serif; text-decoration: none}
+A:visited  { Font-size: 8pt; color: #4f4f4f; font-family: sans-serif; text-decoration: none}
+LI { Font-size: 10pt; color: #A0A0A0; font-family: sans-serif }
