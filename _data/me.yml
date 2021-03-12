@@ -1,0 +1,28 @@
+# These data will be shown in /about page and every page footer
+# Replace these with your own personal info
+
+name: "Vic Evicerator"
+job: "Metalhead"
+hi: "Hail and Kill!"
+avatar_img: "/assets/img/me.png" # path to your avatar
+intro:
+  - "Instrumentalist, singer, songwriter, producer, engineer, label mogul (for very small values of 'label')"
+  - "I also write a lot and design websites, mostly by standing on the shoulders of giants and midgets alike."
+#skills:
+#  - name: "Programming"
+#    icon-class: "fa fa-terminal"
+#    list: ["PHP", "Python", "Shell", "C", "SQL"]
+#  - name: "Framework"
+#    icon-class: "fa fa-th-list"
+#    list: ["Laravel / Lumen", "ThinkPHP", "Yii", "Flask"]
+#  - name: "Tools"
+#    icon-class: "fa fa-cogs"
+#    list: ["Linux", "Docker", "Git", "SublimeText"]
+
+display_name: "Vic Evicerator"
+contact:
+#  - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
+  - {name: "Email", icon-class: "fa fa-envelope", text: "vic.evicerator@charter.net", link: "mailto: vic.evicerator@charter.net"}
+social:
+  - {name: "GitHub", icon-class: "fa fa-github-square", text: "My Github shit", link: "https://github.com/vic-evicerator/"}
+  - {name: "Facebook", icon-class: "fa fa-facebook-square", text: "My Facebook shit", link: "https://www.facebook.com/the.true.vic.evicerator/"}
