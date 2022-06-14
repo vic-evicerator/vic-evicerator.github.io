@@ -13,6 +13,7 @@ LI { Font-size: 10pt; color: gray; font-family: sans-serif }
 TH { Font-size: 12pt; color: black; font-family: sans-serif; text-align: center; text-decoration: none; width: 20%}
 .bg { background-color: #232323; text-align: left; width: 800; padding: 0pt; margin: 0pt; border: 0pt }
 .bgb { background-color: black; text-align: left; width: 800; padding: 0pt; margin: 0pt; border: 0pt }
+.narrow { width: 75%; margin-left: auto; margin-right: auto }
 .menusel { background-color: #1636A5; Font-size: 12pt; color: black; font-family: sans-serif; text-align: center; text-decoration: none }
 .ft { background-color: #454545; text-align: left; width: 800; padding: 0pt; margin: 0pt; border: 0pt }
 .foot { font-size: 8pt; color: #CCCCCC; text-align: center; font-family: sans-serif; width: 20%; padding: 5pt }
